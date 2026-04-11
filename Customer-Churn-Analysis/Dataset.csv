@@ -1,0 +1,16 @@
+customer_id,gender,age,tenure,monthly_charges,total_charges,contract_type,internet_service,payment_method,churn
+1,Male,34,12,70,840,Month-to-month,Fiber optic,Credit card,Yes
+2,Female,45,24,80,1920,One year,DSL,Bank transfer,No
+3,Male,29,6,65,390,Month-to-month,Fiber optic,Electronic check,Yes
+4,Female,50,36,90,3240,Two year,DSL,Credit card,No
+5,Male,23,3,75,225,Month-to-month,Fiber optic,Electronic check,Yes
+6,Female,40,18,85,1530,One year,DSL,Bank transfer,No
+7,Male,37,10,60,600,Month-to-month,DSL,Electronic check,Yes
+8,Female,31,20,70,1400,One year,Fiber optic,Credit card,No
+9,Male,55,48,95,4560,Two year,DSL,Bank transfer,No
+10,Female,27,5,68,340,Month-to-month,Fiber optic,Electronic check,Yes
+11,Male,33,15,72,1080,One year,DSL,Credit card,No
+12,Female,42,30,88,2640,Two year,Fiber optic,Bank transfer,No
+13,Male,26,4,66,264,Month-to-month,Fiber optic,Electronic check,Yes
+14,Female,39,22,78,1716,One year,DSL,Credit card,No
+15,Male,47,40,92,3680,Two year,Fiber optic,Bank transfer,No
