@@ -32,3 +32,6 @@ Sample Superstore dataset containing order details, sales, profit, and regional 
 
 # Conclusion
 The dashboard enables stakeholders to monitor performance and make data-driven decisions to improve profitability and sales strategy.
+
+## 📊 Dashboard Preview
+![Dashboard](Dashboard%20Preview.jpg)
