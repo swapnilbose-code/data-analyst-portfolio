@@ -3,6 +3,9 @@
 # Project Overview
 Analyzed customer data to identify factors contributing to customer churn and provide insights to improve customer retention strategies.
 
+# Business Problem
+The company is experiencing customer churn, leading to revenue loss, but lacks visibility into the key factors driving customer attrition.
+
 ## 📊 Dashboard Preview
 ![Dashboard](Dashboard%20Preview.jpg)
 
@@ -32,6 +35,12 @@ Customer dataset containing demographic details, tenure, contract type, payment 
 - Electronic check payment method showed higher churn rates
 - Customers with lower tenure were more likely to churn
 - Higher monthly charges contributed to increased churn risk
+
+# Recommendations
+Promote long-term contracts to reduce churn
+Improve services or incentives for high-risk customer segments
+Offer targeted retention strategies for low-tenure customers
+Optimize payment options and improve experience for high-churn payment methods
 
 # Conclusion
 The project highlights key churn drivers and helps businesses design targeted strategies to improve customer retention.
