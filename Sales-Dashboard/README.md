@@ -3,6 +3,9 @@
 # Project Overview
 Developed an interactive Power BI dashboard to analyze sales performance across regions, categories, and time. The project focuses on identifying revenue trends, profit drivers, and key business insights.
 
+## 📊 Dashboard Preview
+![Dashboard](Dashboard%20Preview.jpg)
+
 # Tools & Technologies
 - Power BI
 - DAX (Data Analysis Expressions)
@@ -33,5 +36,3 @@ Sample Superstore dataset containing order details, sales, profit, and regional 
 # Conclusion
 The dashboard enables stakeholders to monitor performance and make data-driven decisions to improve profitability and sales strategy.
 
-## 📊 Dashboard Preview
-![Dashboard](Dashboard%20Preview.jpg)
