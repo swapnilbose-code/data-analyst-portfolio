@@ -3,6 +3,9 @@
 # Project Overview
 Performed risk analysis on loan data to identify high-risk customers and understand default patterns. The project helps in improving risk assessment and lending decisions.
 
+## 📊 Dashboard Preview
+![Dashboard](Dashboard%20Preview.jpg)
+
 # Tools & Technologies
 - SQL (Joins, Aggregations, CASE statements)
 - Power BI (Data Visualization)
@@ -31,5 +34,4 @@ Loan dataset containing customer demographics, income, credit score, loan amount
 
 # Conclusion
 The analysis provides actionable insights for improving loan approval strategies and minimizing financial risk.
-## 📊 Dashboard Preview
-![Dashboard](Dashboard%20Preview.jpg)
+
