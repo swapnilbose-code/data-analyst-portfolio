@@ -3,6 +3,9 @@
 # Project Overview
 Performed risk analysis on loan data to identify high-risk customers and understand default patterns. The project helps in improving risk assessment and lending decisions.
 
+# Business Problem
+Financial institutions need to minimize loan defaults by identifying high-risk customers, but lack clear insights into how factors like credit score, income, and loan amount impact risk.
+
 ## 📊 Dashboard Preview
 ![Dashboard](Dashboard%20Preview.jpg)
 
@@ -31,6 +34,12 @@ Loan dataset containing customer demographics, income, credit score, loan amount
 - Higher loan amounts showed increased risk of default
 - Certain income groups were more prone to defaults
 - Risk segmentation helped identify high-risk customer profiles
+
+# Recommendations
+Implement stricter approval criteria for low credit score customers
+Introduce risk-based interest rates for high-risk segments
+Limit exposure to high loan amounts in risky profiles
+Continuously monitor customer segments to improve risk assessment models
 
 # Conclusion
 The analysis provides actionable insights for improving loan approval strategies and minimizing financial risk.
