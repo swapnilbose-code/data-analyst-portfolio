@@ -3,6 +3,9 @@
 # Project Overview
 Developed an interactive Power BI dashboard to analyze sales performance across regions, categories, and time. The project focuses on identifying revenue trends, profit drivers, and key business insights.
 
+# Business Problem
+The business lacks a centralized view to monitor sales performance, profitability, and regional trends, making it difficult to identify top-performing products and areas needing improvement.
+
 ## 📊 Dashboard Preview
 ![Dashboard](Dashboard%20Preview.jpg)
 
@@ -32,6 +35,12 @@ Sample Superstore dataset containing order details, sales, profit, and regional 
 - West region contributed the most to overall profit
 - Sales showed peak growth during Q4
 - Certain categories had high sales but low profit margins
+
+# Recommendations
+Focus on high-performing categories to maximize revenue
+Investigate low-profit products and optimize pricing or cost
+Allocate more resources to high-performing regions
+Use seasonal trends to plan inventory and marketing strategies
 
 # Conclusion
 The dashboard enables stakeholders to monitor performance and make data-driven decisions to improve profitability and sales strategy.
