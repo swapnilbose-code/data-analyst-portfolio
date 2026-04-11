@@ -3,6 +3,9 @@
 # Project Overview
 Developed an HR analytics dashboard to analyze employee attrition, salary distribution, and workforce trends, enabling data-driven HR decision-making.
 
+## 📊 Dashboard Preview
+![Dashboard](Dashboard%20Preview.jpg)
+
 # Tools & Technologies
 - Power BI / Excel
 - Data Analysis
@@ -33,5 +36,3 @@ HR dataset containing employee details such as age, department, job role, salary
 # Conclusion
 The dashboard provides valuable insights to HR teams for improving employee retention and workforce planning strategies.
 
-## 📊 Dashboard Preview
-![Dashboard](Dashboard%20Preview.jpg)
