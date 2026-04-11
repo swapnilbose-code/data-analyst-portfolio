@@ -32,4 +32,4 @@ Loan dataset containing customer demographics, income, credit score, loan amount
 # Conclusion
 The analysis provides actionable insights for improving loan approval strategies and minimizing financial risk.
 ## 📊 Dashboard Preview
-![Dashboard](Dashboard Preview.jpg)
+![Dashboard](Dashboard%20Preview.jpg)
