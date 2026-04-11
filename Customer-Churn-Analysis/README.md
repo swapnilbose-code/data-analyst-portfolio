@@ -3,6 +3,9 @@
 # Project Overview
 Analyzed customer data to identify factors contributing to customer churn and provide insights to improve customer retention strategies.
 
+## 📊 Dashboard Preview
+![Dashboard](Dashboard%20Preview.jpg)
+
 # Tools & Technologies
 - SQL (Data Analysis, Aggregations)
 - Power BI / Excel
@@ -33,5 +36,4 @@ Customer dataset containing demographic details, tenure, contract type, payment 
 # Conclusion
 The project highlights key churn drivers and helps businesses design targeted strategies to improve customer retention.
 
-## 📊 Dashboard Preview
-![Dashboard](Dashboard%20Preview.jpg)
+
