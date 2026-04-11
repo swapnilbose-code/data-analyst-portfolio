@@ -32,3 +32,6 @@ HR dataset containing employee details such as age, department, job role, salary
 
 # Conclusion
 The dashboard provides valuable insights to HR teams for improving employee retention and workforce planning strategies.
+
+## 📊 Dashboard Preview
+![Dashboard](Dashboard%20Preview.jpg)
