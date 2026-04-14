@@ -1,47 +1,47 @@
 # Sales Performance Dashboard
 
 # Project Overview
-Developed an interactive Power BI dashboard to analyze sales performance across regions, categories, and time. The project focuses on identifying revenue trends, profit drivers, and key business insights.
+Developed an interactive Sales Performance Dashboard in Microsoft Excel to analyze sales across regions, categories, and time. The dashboard provides insights into revenue trends, profit drivers, and overall business performance.
 
 # Business Problem
-The business lacks a centralized view to monitor sales performance, profitability, and regional trends, making it difficult to identify top-performing products and areas needing improvement.
+The business lacked a centralized and interactive reporting system to monitor sales performance, profitability, and regional trends, making it difficult to identify top-performing products and improvement areas.
 
 ## 📊 Dashboard Preview
 ![Dashboard](Dashboard%20Preview.jpg)
 
 # Tools & Technologies
-- Power BI
-- DAX (Data Analysis Expressions)
-- Excel / CSV
+- Microsoft Excel (Pivot Tables, Charts, Slicers, Advanced Formulas)
+- Data Analysis
+- Data Visualization
 
 # Dataset
-Sample Superstore dataset containing order details, sales, profit, and regional data.
+Sample Superstore dataset containing sales records including order details, revenue, profit, category, and regional data.
 
 # Key Analysis
-- Total Sales and Profit tracking
-- Profit Margin calculation
-- Sales trends over time (monthly/yearly)
-- Category-wise and region-wise performance
-
+- Tracked Total Sales and Profit using Pivot Tables
+- Calculated Profit Margin using Excel formulas
+- Analyzed sales trends over time using charts
+- Evaluated category-wise and region-wise performance
+  
 # Dashboard Features
 - KPI Cards (Total Sales, Total Profit, Profit Margin)
 - Sales Trend Line Chart
 - Category-wise Sales Bar Chart
-- Region-wise Sales Map
-- Interactive Filters (Region, Category, Year)
+- Region-wise Sales Analysis
+- Interactive Slicers for Region, Category, and Year filtering
 
 # Key Insights
 - Technology category generated the highest revenue
 - West region contributed the most to overall profit
-- Sales showed peak growth during Q4
-- Certain categories had high sales but low profit margins
+- Sales showed peak growth during the final quarter of the year
+- Certain categories had high sales but relatively lower profit margins
 
 # Recommendations
-Focus on high-performing categories to maximize revenue
-Investigate low-profit products and optimize pricing or cost
-Allocate more resources to high-performing regions
-Use seasonal trends to plan inventory and marketing strategies
+- Focus on high-performing categories to maximize revenue
+- Investigate low-profit products and optimize pricing or reduce costs
+- Allocate more resources to high-performing regions
+- Use seasonal trends to plan inventory and marketing strategies
 
 # Conclusion
-The dashboard enables stakeholders to monitor performance and make data-driven decisions to improve profitability and sales strategy.
+The Excel dashboard provides actionable insights that help stakeholders track performance, optimize profitability, and make informed business decisions.
 
