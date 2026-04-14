@@ -18,10 +18,10 @@ I specialize in turning raw data into actionable insights using SQL, Power BI, a
 ## 📊 Projects Portfolio
 
 ### 🔹 Sales Performance Dashboard
-📌 Tools: Power BI, DAX  
+📌 Tools: Excel  
 - Built an interactive dashboard to analyze sales, profit, and regional performance  
-- Identified key revenue drivers and trends  
-- Enabled data-driven decision-making  
+- Identified key revenue drivers and sales trends  
+- Enabled data-driven decision-making using dynamic charts and slicers  
 
 👉 [View Project](./Sales-Dashboard)
 
@@ -48,10 +48,10 @@ I specialize in turning raw data into actionable insights using SQL, Power BI, a
 ---
 
 ### 🔹 HR Analytics Dashboard
-📌 Tools: Power BI, Excel  
-- Developed dashboard to analyze employee attrition and workforce trends  
-- Identified factors influencing employee turnover  
-- Enabled HR teams to make data-driven decisions  
+📌 Tools: Excel  
+- Developed an interactive dashboard to analyze employee attrition and workforce trends  
+- Identified key factors influencing employee turnover  
+- Enabled HR teams to make data-driven decisions using dynamic reporting  
 
 👉 [View Project](./HR-Analytics)
 
