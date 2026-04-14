@@ -1,16 +1,16 @@
 # HR Analytics Dashboard
 
 # Project Overview
-Developed an HR analytics dashboard to analyze employee attrition, salary distribution, and workforce trends, enabling data-driven HR decision-making.
+Developed an interactive HR analytics dashboard in Microsoft Excel to analyze employee attrition, salary distribution, and workforce trends, enabling data-driven HR decision-making.
 
 # Business Problem
-The organization faces high employee attrition, but lacks insights into how factors like salary, tenure, and department influence employee turnover.
+The organization is experiencing high employee attrition but lacks clear insights into how key factors such as salary, tenure, and department impact employee turnover.
 
 ## 📊 Dashboard Preview
 ![Dashboard](Dashboard%20Preview.jpg)
 
 # Tools & Technologies
-- Power BI / Excel
+- Microsoft Excel (Pivot Tables, Charts, Slicers, Advanced Formulas)
 - Data Analysis
 - Data Visualization
 
@@ -18,30 +18,31 @@ The organization faces high employee attrition, but lacks insights into how fact
 HR dataset containing employee details such as age, department, job role, salary, tenure, and attrition status.
 
 # Key Analysis
-- Attrition rate calculation
-- Department-wise and role-wise attrition
-- Salary distribution analysis
-- Tenure-based employee behavior analysis
+- Calculated overall attrition rate using Excel formulas
+- Analyzed department-wise and role-wise attrition using Pivot Tables
+- Performed salary distribution analysis with dynamic charts
+- Conducted tenure-based attrition analysis to identify employee behavior trends
 
 # Dashboard Features
-- KPI Cards (Total Employees, Attrition Rate, Avg Salary)
+- KPI Cards (Total Employees, Attrition Rate, Average Salary)
 - Attrition Distribution (Pie Chart)
-- Attrition by Department and Job Role (Bar Charts)
+- Attrition by Department and Job Role (Pivot Charts)
 - Salary by Department (Column Chart)
 - Tenure vs Attrition Analysis
+- Interactive Slicers for filtering by department, role, and tenure
 
 # Key Insights
 - Sales department experienced the highest attrition
-- Employees with shorter tenure (1–3 years) had higher attrition
-- Lower salary ranges were associated with higher attrition
-- Certain job roles showed significantly higher turnover
+- Employees with shorter tenure (1–3 years) showed higher attrition rates
+- Lower salary ranges were associated with increased employee turnover
+- Specific job roles had significantly higher attrition compared to others
 
 # Recommendations
-Improve retention strategies for low-tenure employees (1–3 years)
-Review compensation for low salary bands to reduce attrition
-Focus on departments with high turnover (e.g., Sales)
-Enhance employee engagement and career growth opportunities
+- Strengthen retention strategies for employees in the 1–3 year tenure range
+- Review and optimize compensation for lower salary bands
+- Focus on high-attrition departments such as Sales
+- Improve employee engagement and provide clear career growth paths
 
 # Conclusion
-The dashboard provides valuable insights to HR teams for improving employee retention and workforce planning strategies.
+The Excel dashboard delivers actionable insights that help HR teams reduce attrition, improve employee retention, and support strategic workforce planning.
 
